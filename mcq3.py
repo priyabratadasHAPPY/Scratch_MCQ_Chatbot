@@ -112,7 +112,7 @@ def loadAssignment():
 
 def displayAssignment(assignment):
     answers = {}
-    st.header("Math Quiz")
+    st.header("Welcome to Scratch Chatbot")
     
     # Display the quiz statistics
     df = pd.DataFrame({
